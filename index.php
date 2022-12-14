@@ -40,6 +40,8 @@
 
     ];
 
+    var_dump($hotels);
+
 ?>
 
 <!DOCTYPE html>
